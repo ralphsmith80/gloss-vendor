@@ -5,6 +5,12 @@
     "name": "Aaron Stacy",
     "email": "astacy@storediq.com"
   },
+  "contributors": [
+    {
+      "name": "Ralph Smith",
+      "email": "ralphsmith80@gmail.com"
+    }
+  ],
   "version": "1.0.28",
   "main": "main.js",
   "repository": {
