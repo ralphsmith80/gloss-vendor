@@ -1,0 +1,33 @@
+{
+  "name": "gloss-vendor",
+  "description": "vendor libraries for [gloss](git://github.com/ralphsmith80/gloss) applications",
+  "author": {
+    "name": "Aaron Stacy",
+    "email": "astacy@storediq.com"
+  },
+  "version": "1.0.28",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ralphsmith80/gloss-vendor.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "~1.3.3",
+    "js-yaml": "0.3.x",
+    "shelljs": "~0.0.6",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunting": "git://github.com/ralphsmith80/grunting.git"
+  },
+  "csi": {
+    "name": "vendor"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
